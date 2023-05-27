@@ -1,7 +1,7 @@
 ## Welcome 👋🏼
 
  
-I am a incoming MSc Computer Science student at York University with research interests centered around artificial intelligence and quantum computing. I am particularly interested in problems pertaining to self-supervised learning, applications of AI in medicine, and the application of deep learning in quantum computing (e.g., VQAs). 
+I am a incoming MSc Computer Science student with a passion for artificial intelligence and quantum computing. I am particularly interested in problems pertaining to self-supervised learning, applications of AI in medicine, and the application of deep learning in quantum computing (e.g., VQAs). 
 
 
 
