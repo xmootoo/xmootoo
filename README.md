@@ -5,8 +5,7 @@ I am a incoming MSc Computer Science student at York University.
 
 
 
-### Projects
-*  *  *  *  *
+## Projects 
  
 <!--
 **xmootoo/xmootoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
