@@ -1,7 +1,7 @@
 ## Welcome 👋🏼
 
  
-I am a incoming MSc Computer Science student at York University. 
+I am a incoming MSc Computer Science student at York University with research interests centered around artificial intelligence and quantum computing. 
 
 
 
