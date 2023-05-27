@@ -1,5 +1,4 @@
 ## Welcome 👋🏼
-
  
 I am a incoming MSc Computer Science student with a passion for artificial intelligence and quantum computing. Specifically, I'm interested in problems pertaining to self-supervised learning, applications of AI for medicine, and the intersection of deep learning and quantum computing. When I'm not working on research, you can find me in my home studio working on an R&B beat.
 
