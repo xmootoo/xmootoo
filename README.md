@@ -1,5 +1,5 @@
 ### Welcome 👋🏼
-*  *  *  *  *
+<p align=left><span align="left">&nbsp;
 I am a incoming MSc Computer Science student at York University. 
 
 
