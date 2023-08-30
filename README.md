@@ -1,6 +1,6 @@
 ## Welcome 👋🏼
  
-I am an incoming MSc Computer Science student with a passion for all things deep learning. Specifically, I'm interested in problems surrounding self-supervised learning for time series and graph data, with applications of to medicine, finance, and quantum computing. When I'm not working on research, you can find me in my home studio working on an R&B beat.
+I am an incoming MSc Computer Science student with a passion for all things deep learning. Specifically, I'm interested in problems surrounding self-supervised learning for time series and graph data, with applications to medicine, finance, wireless networks, and quantum computing. When I'm not working on research, you can find me in my home studio working on an R&B beat or out in the sun playing tennis.
 
 <!-- 
 Coming soon
