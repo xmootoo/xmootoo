@@ -1,6 +1,6 @@
 ## Welcome 👋🏼
  
-I am an incoming MSc Computer Science student with a passion for all things deep learning. I'm focused primarily on graph neural networks, topological deep learning, and self-supervised learning, along with their applications to medicine, finance, wireless networks, and quantum computing. When I'm not working on research, you can find me in my home studio working on an R&B beat 🎶 or on the court playing tennis 🎾.
+I am an incoming MSc Computer Science student with a passion for all things deep learning. I'm focused primarily on graph neural networks, topological deep learning, and self-supervised learning, along with their applications to medicine, drug discovery, and wireless networks. When I'm not working on research, you can find me in my home studio working on an R&B beat 🎶 or on the court playing tennis 🎾.
 
 <!-- 
 Coming soon
