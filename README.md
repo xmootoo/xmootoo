@@ -1,6 +1,6 @@
 ## Welcome 👋🏼
  
-I am a MSc Computer Science student with a passion for all things deep learning. I'm focused primarily on geometric/topological deep leraning, self-supervised learning, and generative flow networks, along with their applications to medicine, drug discovery, and wireless networks. When I'm not working on research, you can find me in my home studio working on an R&B beat 🎶 or on the court playing tennis 🎾.
+I am a MSc Computer Science student with a passion for all things deep learning. I'm focused primarily on geometric/topological deep learning, self-supervised learning, and generative flow networks, along with their applications to medicine, drug discovery, and wireless networks. When I'm not working on research, you can find me in my home studio working on an R&B beat 🎶 or on the court playing tennis 🎾.
 
 <!-- 
 Coming soon
