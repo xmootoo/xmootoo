@@ -1,5 +1,5 @@
 ## Welcome 👋🏼
  
-I am a MSc Computer Science student with a passion for all things deep learning. I enjoy working on deep learning methods for time series and uncertainty quantification, with a focus on applications to quantitative finance and healthcare. When I'm not working on research, you can find me in my home studio working on an R&B beat 🎶 or on the court playing tennis 🎾.
+I'm Xavier, a published mathematician with a background in classical music, now focused on machine learning and quantitative finance. My research focuses on machine learning methods for time series analysis, most recently on conformal prediction for uncertainty quantification, with work featured at NeurIPS and other several top-tier journals.
 
 For more info, visit my website at: [xaviermootoo.com](https://xaviermootoo.com/).
